@@ -60,9 +60,9 @@ Loss Graph Plotted in Tensorboard<br><br>
 This project uses python3.
 
 Clone the project.
-#```bash
-#git clone https://github.com/Jeetu95/Brain-Tumor-Segmentation.git
-#```
+```bash
+git clone https://github.com/yasir-ali437/Brain-Tumor-Segmentation.git
+```
 Install Pytorch from this [link](https://pytorch.org/get-started/locally/)<br>
 Use pip to install all the dependencies
 ```bash
